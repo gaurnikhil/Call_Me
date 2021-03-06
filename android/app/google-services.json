@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "349528568970",
+    "project_id": "call-me-68807",
+    "storage_bucket": "call-me-68807.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:349528568970:android:67fe03413a75ab25b66973",
+        "android_client_info": {
+          "package_name": "com.nikhil6834.call_me"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "349528568970-aascu3hd0cbq8t7rt7ohpo7gb78ijmh4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.nikhil6834.call_me",
+            "certificate_hash": "9131d08289add2e481cef9c1eb59879bb159f037"
+          }
+        },
+        {
+          "client_id": "349528568970-jhpjmiplf5jglkio6551rvquubif3scj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBPNAPuNPzxEQUo5LXwsi4WACbjQerAuZs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "349528568970-jhpjmiplf5jglkio6551rvquubif3scj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
